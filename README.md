@@ -61,8 +61,4 @@
 
 <img src="https://img.icons8.com/fluency/48/000000/nui2.png" align="right" />
 
-## Had doubts regarding configuration
-#### :point_down: Head to the following video to get clarified.:star2:
-
-## <img src="https://img.icons8.com/fluency/48/000000/youtube-play.png"/> [Configuring mpi using Visual Studio - Hello World](https://youtu.be/L3cBUdLSb-M)
 ## :man_astronaut: ***Work in progress <img src="https://img.icons8.com/office/50/000000/spinner-frame-1.png"/>*** 
